@@ -33,4 +33,4 @@ jobs:
           appSourcePath: ${{ github.workspace }}/src
           acrName: ca84c8b07695acr
           containerAppName: ah-container-app
-          resourceGroup: ah-container-app-rg
+          resourceGroup: ah-container-rg
